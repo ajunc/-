@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "香蕉视频",
+  "usingComponents": {
+    "MyTitle": "../../components/MyTitle/MyTitle"
+  }
+}
